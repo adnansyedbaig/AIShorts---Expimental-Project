@@ -1,1 +1,6 @@
-yt-dlp
+yt-dlp,
+torch,
+transformers,
+pydub,
+soundfile,
+accelerate
