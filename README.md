@@ -1,6 +1,6 @@
 Hello,
 
-I code use AI, I have no knowledge of coding.
+I code using AI, I have no knowledge of coding.
 
 Nothing interesting, but feel free to drop a comment or say hello.
 
